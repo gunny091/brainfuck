@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "brainfuck"
+version = "1.0"
+description = "barinfuck interpreter"
+authors = ["chadol <admin@chadol.xyz>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+readchar = "^4.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
