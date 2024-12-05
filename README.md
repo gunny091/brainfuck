@@ -2,4 +2,4 @@
 
 need poetry
 
-usage: brainfuck <filename>
+usage: brainfuck \<filename\>
